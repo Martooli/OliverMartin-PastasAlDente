@@ -7,3 +7,10 @@
 
 
 ## Paleta de colores:
+
+![colores jpg](https://user-images.githubusercontent.com/131212066/235003532-ccbeb202-4a47-4cff-a98f-ef58ae048810.png)
+
+
+
+## Tipografia:
+
